@@ -1,7 +1,4 @@
-# Vibe AI - Production-Grade Website Builder
 
-![Vibe AI](https://images.unsplash.com/photo-1633356122544-f134324a6cee?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
-*(Conceptual Image)*
 
 **Vibe AI** is a state-of-the-art AI-powered platform that transforms your ideas into production-ready full-stack web applications in seconds. Built with a focus on premium aesthetics and developer experience, Vibe AI allows you to generate, preview, and export high-quality React + Node.js code seamlessly.
 
