@@ -1,1 +1,1 @@
-{"root":["./src/constants.ts","./src/index.ts","./src/prompts.ts","./src/stripindents.ts","./src/defaults/node.ts","./src/defaults/react.ts"],"version":"5.7.2"}
+{"root":["./src/constants.ts","./src/index.ts","./src/prompts.ts","./src/stripindents.ts","./src/defaults/node.ts","./src/defaults/react.ts","./src/llm/anthropic.ts","./src/llm/gemini.ts","./src/llm/index.ts","./src/llm/types.ts"],"version":"5.7.2"}

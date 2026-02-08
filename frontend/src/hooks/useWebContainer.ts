@@ -5,9 +5,14 @@ export function useWebContainer() {
     const [webcontainer, setWebcontainer] = useState<WebContainer>();
 
     async function main() {
-        const webcontainerInstance = await WebContainer.boot();
-        setWebcontainer(webcontainerInstance)
+        try {
+            const webcontainerInstance = await WebContainer.boot();
+            setWebcontainer(webcontainerInstance);
+        } catch (error) {
+            console.error("Failed to boot WebContainer:", error);
+        }
     }
+
     useEffect(() => {
         main();
     }, [])
